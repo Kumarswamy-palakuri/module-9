@@ -77,6 +77,7 @@ text
 - └── README.md
 ---
 ### 📸 Demo Screenshots (Optional)
+<img width="1913" height="952" alt="img1" src="https://github.com/user-attachments/assets/5cf5e566-d1bf-4e60-b616-fd34cfc6c215" />
 
 ---
 ### 🤝 Contributing
